@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Fakertehtava": {
+      "commandName": "Project",
+      "commandLineArgs": "--personcount 4"
+    }
+  }
+}

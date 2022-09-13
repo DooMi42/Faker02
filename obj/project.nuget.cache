@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBGlX7B34As23Z+e8YUwPAkmaQ8+o8VWZTAgQLw3LrHCOj0nQG2ynmWftd1lEZDfjoabiJLn3g4aZwuc41ztYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hurme\\Downloads\\Fakertehtava (1)\\Fakertehtava\\Fakertehtava.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hurme\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
+    "C:\\Users\\hurme\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hurme\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
